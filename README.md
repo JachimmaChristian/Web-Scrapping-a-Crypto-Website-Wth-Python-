@@ -10,3 +10,8 @@ CoinMarketCap API: https://coinmarketcap.com/api/
 CoinMarketCap API Documentation: https://coinmarketcap.com/api/documen...
 
 View full project [HERE](https://github.com/JachimmaChristian/Web_Scrapping_With_Python/blob/main/Web%20Scrapping%20CoinMarketCap%20Using%20their%20public%20API%20with%20Python.ipynb)
+
+# Webscrapping Wikipedia Data With Python
+For this project, I continued to demonstrate my skills in scrapping data from real websites, this time from Wikipedia to get the data on the list of the largest companies in the United States by revenue. 
+
+I extracted the data and saved it first as a dataframe and iterated over the dataframe to save it into a CSV.
