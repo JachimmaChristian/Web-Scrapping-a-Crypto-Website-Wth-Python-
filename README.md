@@ -16,6 +16,8 @@ For this project, I continued to demonstrate my skills in scrapping data from re
 
 I extracted the data and saved it first as a dataframe and iterated over the dataframe to save it into a CSV.
 
+URL: https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
+
 Link to Project: [Here](https://github.com/JachimmaChristian/Web_Scrapping_With_Python/blob/main/Webscraping%20Wikipedia%20Data.ipynb)
 
 Link to CSV: [Here](https://github.com/JachimmaChristian/Web_Scrapping_With_Python/blob/main/ScrappingWiki.csv)
