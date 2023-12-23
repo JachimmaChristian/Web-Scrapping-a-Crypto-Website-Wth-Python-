@@ -1,5 +1,7 @@
 This repo contains projects I did as part of my learning process to build my skills in scraping web data. See the projects below👇
 
+![](Webscrap.jpg)
+
 # WebScrapping A Crypto Website With Python
 In this project I automated the pull of data every 5 minutes from a crypto website using their public API, I performed some cleaning on the data and visualised a couple of insights.
 
