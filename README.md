@@ -1,4 +1,4 @@
-This repo contains projects I did as part of my learning process to build my skills in scraping web data. See the projects below👇
+This repo contains projects I worked on to build my skills in scraping web data. See the projects below👇
 
 ![](Webscrap.jpg)
 
